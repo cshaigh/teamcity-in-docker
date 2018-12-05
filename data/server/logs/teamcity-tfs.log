@@ -1,0 +1,3 @@
+[2018-12-05 21:53:18,441]   INFO - vcs.tfs.pool.TfsPoolTerminator - Terminating TFS .net sessions 
+[2018-12-05 21:53:18,443]   INFO - s.java.TfsJavaRunnerTerminator - Terminating TFS java sessions 
+[2018-12-05 21:53:18,485]   INFO - iggers.vcs.tfs.TfsCacheCleaner - Initiated cleanup process of TFS caches in directory /data/teamcity_server/datadir/system/caches/tfs 

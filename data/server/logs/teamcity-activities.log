@@ -1,0 +1,4 @@
+[2018-12-05 21:41:28,840]   INFO - tbrains.buildServer.ACTIVITIES - Server Started 
+[2018-12-05 21:51:06,032]   INFO - tbrains.buildServer.ACTIVITIES - Agent ""teamcity-in-docker_teamcity-agent_1-1" {id=2}" was authorized by "'admin' {id=1}" 
+[2018-12-05 21:51:19,939]   INFO - tbrains.buildServer.ACTIVITIES - Agent "Unregistered agent "teamcity-in-docker_teamcity-agent_1" {id=1}" was removed by "'admin' {id=1}" 
+[2018-12-05 21:53:18,032]   INFO - tbrains.buildServer.ACTIVITIES - Shutdown Spring components 

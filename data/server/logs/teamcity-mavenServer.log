@@ -1,0 +1,6 @@
+[2018-12-05 21:41:03,004]   INFO - r.maven.remote.MavenServerImpl - Starting maven server with following arguments: [teamcity-mavenServer] 
+[2018-12-05 21:41:03,075]   INFO - r.maven.remote.MavenServerImpl - Successfully created registry using port [53450] 
+[2018-12-05 21:41:03,075]   INFO - r.maven.remote.MavenServerImpl - Successfully bound Maven Server to name: [teamcity-mavenServer] 
+[2018-12-05 21:41:03,077]   INFO - r.maven.remote.MavenServerImpl - using name of running JVM: [77@e0e4e8598e24] 
+[2018-12-05 21:53:18,557]   INFO - r.maven.remote.MavenServerImpl - Shutting down. Reason [Server shutdown event received by listener in jetbrains.buildServer.maven.remote.RemoteMavenEmbedderFactory] 
+[2018-12-05 21:53:18,559]   INFO - r.maven.remote.MavenServerImpl - Shutdown sequence complete 

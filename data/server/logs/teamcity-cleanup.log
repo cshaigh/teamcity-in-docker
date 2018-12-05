@@ -1,0 +1,5 @@
+[2018-12-05 21:41:24,476]   INFO -  jetbrains.buildServer.CLEANUP - Max cleanup duration is set to 0 seconds 
+[2018-12-05 21:41:24,496]   INFO -  jetbrains.buildServer.CLEANUP - Cleanup time has been set to 03:00:00 daily 
+[2018-12-05 21:41:24,497]   INFO -  jetbrains.buildServer.CLEANUP - Cleanup is enabled 
+[2018-12-05 21:51:19,921]   INFO -  jetbrains.buildServer.CLEANUP - 		Removing agent Unregistered agent "teamcity-in-docker_teamcity-agent_1" {id=1} 
+[2018-12-05 21:53:18,484]   INFO -  jetbrains.buildServer.CLEANUP - Cleaning TFS caches in the directory /data/teamcity_server/datadir/system/caches/tfs 

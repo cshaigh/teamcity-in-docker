@@ -1,0 +1,1 @@
+[2018-12-05 21:41:07,964]   INFO [18-12-05 21:39)] - n.AmazonInstanceMetadataReader - Amazon is not available. Amazon EC2 integration is not active: Failed to connect to http://169.254.169.254/2016-04-19. Connection refused 

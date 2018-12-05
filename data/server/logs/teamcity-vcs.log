@@ -1,0 +1,8 @@
+[2018-12-05 21:41:05,561]   INFO [18-12-05 21:39)] - gers.vcs.git.MirrorManagerImpl - No mapping file found at /data/teamcity_server/datadir/system/caches/git/map, create a new one 
+[2018-12-05 21:41:05,564]   INFO [18-12-05 21:39)] - gers.vcs.git.MirrorManagerImpl - Restore mapping from existing repositories 
+[2018-12-05 21:41:05,566]   INFO [18-12-05 21:39)] - gers.vcs.git.MirrorManagerImpl - No existing repositories found 
+[2018-12-05 21:41:06,610]   INFO [18-12-05 21:39)] -      jetbrains.buildServer.VCS - Server-wide hg path is not set, will use path from the VCS root settings 
+[2018-12-05 21:41:07,661]   INFO [18-12-05 21:39)] - ache.fs.impl.MirrorManagerImpl - No mapping file found at /data/teamcity_server/datadir/system/caches/svn/map, create a new one 
+[2018-12-05 21:41:07,662]   INFO [18-12-05 21:39)] - ache.fs.impl.MirrorManagerImpl - Restore mapping from existing repositories 
+[2018-12-05 21:41:07,664]   INFO [18-12-05 21:39)] - ache.fs.impl.MirrorManagerImpl - No existing repositories found 
+[2018-12-05 21:41:12,628]   WARN [18-12-05 21:39)] - ldTriggers.vcs.vss.VssSupport2 - Unable to run SourceSafe Support under non-windows OS 
